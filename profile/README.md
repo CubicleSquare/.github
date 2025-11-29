@@ -1,8 +1,8 @@
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.png">
-    <img src="../assets/banner-light.png" alt="Cubicle Square Banner">
-  </picture>
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="../assets/banner-dark.svg">
+<img src="../assets/banner-light.svg" alt="Cubicle Square Banner">
+</picture>
 </p>
 
 <p align="center">
