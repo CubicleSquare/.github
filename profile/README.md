@@ -65,15 +65,15 @@ We welcome secure, responsible contributions.
 
 - Read our **[Contributor Guide](../CONTRIBUTING.md)**  
 - Follow our **[Code of Conduct](../CODE_OF_CONDUCT.md)**  
-- Report vulnerabilities → **security@cubiclesquare.com**  
+- Report vulnerabilities → **info@cubiclesquare.com**  
   (See **[Security Policy](../SECURITY.md)**)
 
 ---
 
 ## 📬 Contact
 
-📧 support@cubiclesquare.com  
-🌐 Website: *Add URL*
+📧 info@cubiclesquare.com  
+🌐 Website: *https://www.cubiclesquare.com/*
 
 ---
 
